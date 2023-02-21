@@ -17,5 +17,20 @@
 ### Employee Status
 ![img_1.png](images/img_1.png)
 
-###ex Pair Plots
+### Pair Plots
 ![img_2.png](images/img_2.png)
+
+### Employment Duration
+
+#### Contract Basis Employees
+
+|       | Employment\_Duration        |
+|:------|:----------------------------|
+| count | 751                         |
+| mean  | 408 days 12:14:22.849533956 |
+| std   | 468 days 17:30:17.438927584 |
+| min   | 0 days 00:00:00             |
+| 25%   | 108 days 12:00:00           |
+| 50%   | 261 days 00:00:00           |
+| 75%   | 556 days 00:00:00           |
+| max   | 3924 days 00:00:00          |
