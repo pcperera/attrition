@@ -5,6 +5,8 @@
 3. Priyanka Perera
 4. Thushara Sampath
 
+GitHub - https://github.com/pcperera/attrition/
+
 
 ## Directory Structure
 
