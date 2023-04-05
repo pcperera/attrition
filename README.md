@@ -35,5 +35,7 @@
 
 ### Model Evaluation
 
-![img.png](images/model-evaluation.png)
+![img.png](images/model-evaluation-model-view.png)
+
+![img.png](images/model-evaluation-metric-view.png)
 
