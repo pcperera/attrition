@@ -36,7 +36,7 @@
 ![img_2.png](images/full-data-set-pair-plot.png)
 
 
-### February 2020 to December 2022
+### February 2020 to December 2022 (focused period)
 
 ![img.png](images/attendance.png)
 
