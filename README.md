@@ -6,6 +6,14 @@
 4. Thushara Sampath
 
 
+## Project structure
+
+| Directory | Content                                            |
+|-----------|----------------------------------------------------|
+| .         | Jupyter notebook files are ordered with index      |
+| data      | data directory contains all data used for analysis |
+
+
 ## Descriptive Analysis
 
 | Univariate                         |     Result |
@@ -28,7 +36,9 @@
 ### Pair Plots
 ![img_2.png](images/img_2.png)
 
-### Employment Duration
+### Attendance
+
+![img.png](images/attendance.png)
 
 #### Contract Basis Employees
 
