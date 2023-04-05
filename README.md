@@ -6,11 +6,11 @@
 4. Thushara Sampath
 
 
-## Project structure
+## Directory structure
 
 | Directory | Content                                            |
 |-----------|----------------------------------------------------|
-| .         | Jupyter notebook files are ordered with index      |
+| .         | Jupyter notebook files are ordered by index        |
 | data      | data directory contains all data used for analysis |
 
 
