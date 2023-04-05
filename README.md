@@ -1,4 +1,4 @@
-## Team Members (Group 7)
+## Team Members -Group G (7)
 
 1. Amali Perera
 2. Emindu Perera
