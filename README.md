@@ -73,3 +73,5 @@ GitHub - https://github.com/pcperera/attrition/
 
 ![img.png](images/model-evaluation-metric-view.png)
 
+![img.png](images/ROC_Curve.png)
+
