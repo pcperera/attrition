@@ -1,4 +1,4 @@
-## Team members
+## Team Members (Group 7)
 
 1. Amali Perera
 2. Emindu Perera
@@ -6,7 +6,7 @@
 4. Thushara Sampath
 
 
-## Directory structure
+## Directory Structure
 
 | Directory | Content                                            |
 |-----------|----------------------------------------------------|
@@ -16,7 +16,7 @@
 
 ## Descriptive Analysis
 
-### Entire dataset 
+### Entire Dataset 
 
 | Univariate                         |     Result |
 |------------------------------------|-----------:|
@@ -34,6 +34,7 @@
 ![img_1.png](images/full-dataset-employment-status-percentage.png)
 
 ![img_2.png](images/full-data-set-pair-plot.png)
+
 
 
 ### February 2020 to December 2022 (focused period)
