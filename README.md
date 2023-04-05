@@ -29,31 +29,27 @@
 | Latest Join_Date                   | 2022-12-20 |
 
 
-#### Employment Type
-![img.png](images/img.png)
+![img.png](images/full-data-set-employment-type.png)
 
-#### Employee Status
-![img_1.png](images/img_1.png)
+![img_1.png](images/full-dataset-employment-status-percentage.png)
 
-#### Pair Plots
-![img_2.png](images/img_2.png)
+![img_2.png](images/full-data-set-pair-plot.png)
 
 
 ### February 2020 to December 2022
 
 ![img.png](images/attendance.png)
 
-![img.png](img.png)
+![img.png](images/focused-period-pair-plots.png)
 
-![img_1.png](img_1.png)
+![img_1.png](images/focused-period-employmet-type.png)
 
-![img_2.png](img_2.png)
+![img_2.png](images/focused-period-employee-status.png)
 
-![img_3.png](img_3.png)
+![img_3.png](images/focused-period-gender.png)
 
-![img_4.png](img_4.png)
+![img_4.png](images/focused-period-employee-status-percentage.png)
 
-![img_5.png](img_5.png)
 
 
 ### Model Evaluation
